@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+
+traffic.pcap
+
+models/
+*.pkl
+
+results/
+
+*.log
+
+.idea/
+.vscode/
+
+.DS_Store
